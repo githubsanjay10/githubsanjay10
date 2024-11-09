@@ -48,15 +48,7 @@ Automating cloud resources provisioning with **Terraform**.
 
 ## 💬 **Let’s Connect!**
 - 📧 Email: [dsanjaygandhi1996@gmail.com](mailto:dsanjaygandhi1996@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sinjaygandhi-d](https://www.linkedin.com/in/sinjaygandhi-d)
-
----
-
-## 🌟 **Fun Animation:**  
-Here’s a cool animation to grab attention! 🥳
-
-![GitHub Contribution](https://raw.githubusercontent.com/DenverCoder1/devREADME/main/assets/Hi.gif)
-
+- 💼 LinkedIn: [linkedin.com/in/sanjaygandhi-d](https://www.linkedin.com/in/sanjaygandhi-d)
 ---
 
 ### 🚀 Thank you for visiting my profile! Feel free to explore my projects and reach out to collaborate on exciting DevOps solutions!
